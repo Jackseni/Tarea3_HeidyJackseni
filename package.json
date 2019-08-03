@@ -1,0 +1,14 @@
+{
+  "name": "tarea3_heidyjackseni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackseni Dubon",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
